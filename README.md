@@ -21,10 +21,6 @@ To get started with CraveCrafter, follow these steps:
 3. Configure the application settings, including database connection details and API keys.
 4. Run the application using `npm start`.
 
-## Contributing
-
-We welcome contributions from the community! If you have ideas for new features, bug fixes, or improvements, please open an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
